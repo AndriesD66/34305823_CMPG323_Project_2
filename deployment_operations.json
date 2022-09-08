@@ -1,0 +1,20 @@
+[
+  {
+    "id": "/subscriptions/2afad396-e0ba-4e83-912b-cead5a2e92e0/resourceGroups/34305823_Project_2/providers/Microsoft.Resources/deployments/Microsoft.SQLDatabase.newDatabaseExistingServer_6a71d245b8d342b7/operations/C1CEB175D97A97A1",
+    "operationId": "C1CEB175D97A97A1",
+    "properties": {
+      "provisioningOperation": "Read",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-09-08T12:00:27.3500522Z",
+      "duration": "PT0.9639252S",
+      "trackingId": "36e972d9-6c92-4b64-a2e9-cdf8e14e3be8",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/2afad396-e0ba-4e83-912b-cead5a2e92e0/resourceGroups/34305823_Project_2/providers/Microsoft.Sql/servers/project-2-server",
+        "resourceType": "Microsoft.Sql/servers",
+        "resourceName": "project-2-server",
+        "apiVersion": "2018-06-01-preview"
+      }
+    }
+  }
+]
